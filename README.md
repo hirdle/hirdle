@@ -39,5 +39,4 @@ I'm now working on: see below "Pinned".
     * Photoshop
 
 ### 📫Contact me:
-* Telegram - https://t.me/Hirdle_Design
-* VK - https://vk.com/ilyastream_yt
+* Telegram - https://t.me/hirdle
