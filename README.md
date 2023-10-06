@@ -46,3 +46,5 @@ I'm ready to consider offers about work, tasks, carrying lessons (No relocation)
 
 ### 📫Contact me:
 * Telegram - https://t.me/hirdle
+* Mail - admin@hirdle.ru
+* Site - hirdle.ru (in development)
