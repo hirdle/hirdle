@@ -27,7 +27,7 @@ I'm also enjoy everything about web delevoping. Currently I'm developing my proj
     * ML
     * NLP
     
-5. 🔧 I'm using:
+5. I'm using:
     * VS Code
     * PyCharm
     * Figma
